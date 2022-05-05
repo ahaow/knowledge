@@ -12,6 +12,7 @@
 
 
 [js-垃圾回收机制](https://github.com/ahaow/knowledge/issues/4)
+
 [js-内存泄漏](https://github.com/ahaow/knowledge/issues/5)
 
 
