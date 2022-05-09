@@ -15,6 +15,8 @@
 
 [js-内存泄漏](https://github.com/ahaow/knowledge/issues/5)
 
+[js-函数柯里化](https://github.com/ahaow/knowledge/issues/12)
+
 
 ## 浏览器相关 👀
 
